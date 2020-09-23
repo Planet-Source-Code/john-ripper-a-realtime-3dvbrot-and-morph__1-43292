@@ -1,0 +1,21 @@
+'This File was created by me in order to export any ASC file from 3DStudio to Visual Basic
+'3DStoVB version 0.0.0001 alpha (xD, only a few lines Visual Basic program conversion)
+
+'Format POINTS
+'X!Y@Z        expample:-32!0@125   -->X(n)=-32, Y(n)=0, Z(n)=125
+'Format FACES
+'A!B@C        expample:2!10@25     -->A(n)=2, B(n)=10, C(n)=25
+
+CtteNumPoints=8
+CtteNumFaces=Not Available
+ 
+--------------------------POINTS-------------------------
+-15!0@26
+8!-10@34
+-23!0@64
+-42!10@-20
+80!-37@60
+115!37@-30
+-131!0@-120
+145!10@80
+155!0@-40
